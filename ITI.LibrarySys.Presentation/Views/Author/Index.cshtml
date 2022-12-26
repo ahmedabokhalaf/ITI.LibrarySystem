@@ -1,0 +1,12 @@
+﻿@model PagedList<Author>
+
+
+<partial name="_PagedAuthor" model="@Model"></partial>
+
+@section LeftPanel{
+    <h1 style="color: greenyellow">Authors List</h1>
+}
+
+    @section Style{
+    <link rel="stylesheet" href="~/Content/lib/css/StyleShared.min.css" />
+}

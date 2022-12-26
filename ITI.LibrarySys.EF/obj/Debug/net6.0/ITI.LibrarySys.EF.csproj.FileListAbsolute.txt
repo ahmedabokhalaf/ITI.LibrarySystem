@@ -1,0 +1,17 @@
+F:\ITI3Months\ASP.NET\Labs\ITI.LibrarySystem\ITI.LibrarySys.EF\bin\Debug\net6.0\ITI.LibrarySys.EF.deps.json
+F:\ITI3Months\ASP.NET\Labs\ITI.LibrarySystem\ITI.LibrarySys.EF\bin\Debug\net6.0\ITI.LibrarySys.EF.runtimeconfig.json
+F:\ITI3Months\ASP.NET\Labs\ITI.LibrarySystem\ITI.LibrarySys.EF\bin\Debug\net6.0\ITI.LibrarySys.EF.dll
+F:\ITI3Months\ASP.NET\Labs\ITI.LibrarySystem\ITI.LibrarySys.EF\bin\Debug\net6.0\ITI.LibrarySys.EF.pdb
+F:\ITI3Months\ASP.NET\Labs\ITI.LibrarySystem\ITI.LibrarySys.EF\bin\Debug\net6.0\ITI.LibrarySys.Core.dll
+F:\ITI3Months\ASP.NET\Labs\ITI.LibrarySystem\ITI.LibrarySys.EF\bin\Debug\net6.0\ITI.LibrarySys.Core.pdb
+F:\ITI3Months\ASP.NET\Labs\ITI.LibrarySystem\ITI.LibrarySys.EF\obj\Debug\net6.0\ITI.LibrarySys.EF.csproj.AssemblyReference.cache
+F:\ITI3Months\ASP.NET\Labs\ITI.LibrarySystem\ITI.LibrarySys.EF\obj\Debug\net6.0\ITI.LibrarySys.EF.GeneratedMSBuildEditorConfig.editorconfig
+F:\ITI3Months\ASP.NET\Labs\ITI.LibrarySystem\ITI.LibrarySys.EF\obj\Debug\net6.0\ITI.LibrarySys.EF.AssemblyInfoInputs.cache
+F:\ITI3Months\ASP.NET\Labs\ITI.LibrarySystem\ITI.LibrarySys.EF\obj\Debug\net6.0\ITI.LibrarySys.EF.AssemblyInfo.cs
+F:\ITI3Months\ASP.NET\Labs\ITI.LibrarySystem\ITI.LibrarySys.EF\obj\Debug\net6.0\ITI.LibrarySys.EF.csproj.CoreCompileInputs.cache
+F:\ITI3Months\ASP.NET\Labs\ITI.LibrarySystem\ITI.LibrarySys.EF\obj\Debug\net6.0\ITI.LibrarySys.EF.csproj.CopyComplete
+F:\ITI3Months\ASP.NET\Labs\ITI.LibrarySystem\ITI.LibrarySys.EF\obj\Debug\net6.0\ITI.LibrarySys.EF.dll
+F:\ITI3Months\ASP.NET\Labs\ITI.LibrarySystem\ITI.LibrarySys.EF\obj\Debug\net6.0\refint\ITI.LibrarySys.EF.dll
+F:\ITI3Months\ASP.NET\Labs\ITI.LibrarySystem\ITI.LibrarySys.EF\obj\Debug\net6.0\ITI.LibrarySys.EF.pdb
+F:\ITI3Months\ASP.NET\Labs\ITI.LibrarySystem\ITI.LibrarySys.EF\obj\Debug\net6.0\ITI.LibrarySys.EF.genruntimeconfig.cache
+F:\ITI3Months\ASP.NET\Labs\ITI.LibrarySystem\ITI.LibrarySys.EF\obj\Debug\net6.0\ref\ITI.LibrarySys.EF.dll

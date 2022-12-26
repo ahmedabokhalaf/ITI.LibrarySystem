@@ -1,0 +1,31 @@
+﻿@model Author
+
+<form>
+    <div class="form-group row">
+        <label asp-for="ID" class="col-sm-3 col-form-label">Book ID: </label>
+        <div class="col-sm-9">
+            <input asp-for="ID" class="form-control" readonly value="@Model.ID" />
+        </div>
+    </div>
+    <div class="form-group row">
+        <label asp-for="Name" class="col-sm-3 col-form-label">Author Name: </label>
+        <div class="col-sm-9">
+            <input asp-for="Name" class="form-control" readonly value="@Model.Name" />
+        </div>
+    </div>
+    @if (User.IsInRole("Editor"))
+    {
+            <div>
+                <a asp-action="Edit" asp-controller="Author" asp-route-id="@Model.ID" class="btn btn-info">Edit</a>
+                <a asp-action="Delete" asp-controller="Author" asp-route-id="@Model.ID" class="btn btn-danger">Delete</a>
+            </div>
+    }
+    <div>
+        <a asp-action="Index" asp-controller="Home" class="btn btn-primary">Back to Home</a>
+    </div>
+</form>
+
+
+@section LeftPanel{
+        <h1 style="color: greenyellow">The Author #@Model.ID Details</h1>
+}

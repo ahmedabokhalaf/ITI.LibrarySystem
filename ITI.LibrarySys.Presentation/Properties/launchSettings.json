@@ -1,0 +1,12 @@
+{
+  "profiles": {
+    "ITI.LibrarySys.Presentation": {
+      "commandName": "Project",
+      "launchBrowser": true,
+      "environmentVariables": {
+        "ASPNETCORE_ENVIRONMENT": "Development"
+      },
+      "applicationUrl": "https://localhost:9804;http://localhost:9805"
+    }
+  }
+}

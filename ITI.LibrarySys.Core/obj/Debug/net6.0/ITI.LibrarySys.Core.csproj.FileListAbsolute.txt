@@ -1,0 +1,14 @@
+F:\ITI3Months\ASP.NET\Labs\ITI.LibrarySystem\ITI.LibrarySys.Core\bin\Debug\net6.0\ITI.LibrarySys.Core.deps.json
+F:\ITI3Months\ASP.NET\Labs\ITI.LibrarySystem\ITI.LibrarySys.Core\bin\Debug\net6.0\ITI.LibrarySys.Core.runtimeconfig.json
+F:\ITI3Months\ASP.NET\Labs\ITI.LibrarySystem\ITI.LibrarySys.Core\bin\Debug\net6.0\ITI.LibrarySys.Core.dll
+F:\ITI3Months\ASP.NET\Labs\ITI.LibrarySystem\ITI.LibrarySys.Core\bin\Debug\net6.0\ITI.LibrarySys.Core.pdb
+F:\ITI3Months\ASP.NET\Labs\ITI.LibrarySystem\ITI.LibrarySys.Core\obj\Debug\net6.0\ITI.LibrarySys.Core.csproj.AssemblyReference.cache
+F:\ITI3Months\ASP.NET\Labs\ITI.LibrarySystem\ITI.LibrarySys.Core\obj\Debug\net6.0\ITI.LibrarySys.Core.GeneratedMSBuildEditorConfig.editorconfig
+F:\ITI3Months\ASP.NET\Labs\ITI.LibrarySystem\ITI.LibrarySys.Core\obj\Debug\net6.0\ITI.LibrarySys.Core.AssemblyInfoInputs.cache
+F:\ITI3Months\ASP.NET\Labs\ITI.LibrarySystem\ITI.LibrarySys.Core\obj\Debug\net6.0\ITI.LibrarySys.Core.AssemblyInfo.cs
+F:\ITI3Months\ASP.NET\Labs\ITI.LibrarySystem\ITI.LibrarySys.Core\obj\Debug\net6.0\ITI.LibrarySys.Core.csproj.CoreCompileInputs.cache
+F:\ITI3Months\ASP.NET\Labs\ITI.LibrarySystem\ITI.LibrarySys.Core\obj\Debug\net6.0\ITI.LibrarySys.Core.dll
+F:\ITI3Months\ASP.NET\Labs\ITI.LibrarySystem\ITI.LibrarySys.Core\obj\Debug\net6.0\refint\ITI.LibrarySys.Core.dll
+F:\ITI3Months\ASP.NET\Labs\ITI.LibrarySystem\ITI.LibrarySys.Core\obj\Debug\net6.0\ITI.LibrarySys.Core.pdb
+F:\ITI3Months\ASP.NET\Labs\ITI.LibrarySystem\ITI.LibrarySys.Core\obj\Debug\net6.0\ITI.LibrarySys.Core.genruntimeconfig.cache
+F:\ITI3Months\ASP.NET\Labs\ITI.LibrarySystem\ITI.LibrarySys.Core\obj\Debug\net6.0\ref\ITI.LibrarySys.Core.dll
